@@ -57,17 +57,17 @@ ___
 | one | two | three | fore | five |
 |-----|-----|-------|------|------|
 | 6   | 7   | 8     | 9    | `10` |
-| 
+
 
 <!-- Список дел -->
- - [ ] __TODO 1__
- - [x] __TODO 2__
+ - [ ] <span style="color:#00E">__TODO 1__</span>
+ - [x] <span style="color:#00E">__TODO 2__</span>
  <!-- Youtube video-->
  <!-- [![text](ссылка на картинку)](ссылка на видео)-->
  |**video**|
  |-|
  |[![Видео](https://pngicon.ru/file/uploads/youtube-1-128x128.png)](https://www.youtube.com/watch?v=jPKi2Addbxw)|
  |`Markdown - что за язык и как им пользоваться`|
- |
-
+ 
+<span style="color:#f00">some *blue* text</span>
  
