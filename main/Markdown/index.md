@@ -60,10 +60,14 @@ ___
 | 
 
 <!-- Список дел -->
- * [] TODO1
- * [x] TODO2
+ - [ ] __TODO 1__
+ - [x] __TODO 2__
  <!-- Youtube video-->
  <!-- [![text](ссылка на картинку)](ссылка на видео)-->
- >`Markdown - что за язык и как им пользоваться` **video**
- [![Видео](https://pngicon.ru/file/uploads/youtube-1-128x128.png)](https://www.youtube.com/watch?v=jPKi2Addbxw)
+ |**video**|
+ |-|
+ |[![Видео](https://pngicon.ru/file/uploads/youtube-1-128x128.png)](https://www.youtube.com/watch?v=jPKi2Addbxw)|
+ |`Markdown - что за язык и как им пользоваться`|
+ |
+
  
