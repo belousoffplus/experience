@@ -60,8 +60,8 @@ ___
 
 
 <!-- Список дел -->
- - [ ] <span style="color:#00E">__TODO 1__</span>
- - [x] <span style="color:#00E">__TODO 2__</span>
+ - [ ] <span style="color:blue">__TODO 1__</span>
+ - [x] <span style="color:blue">__TODO 2__</span>
  <!-- Youtube video-->
  <!-- [![text](ссылка на картинку)](ссылка на видео)-->
  |**video**|
@@ -69,5 +69,5 @@ ___
  |[![Видео](https://pngicon.ru/file/uploads/youtube-1-128x128.png)](https://www.youtube.com/watch?v=jPKi2Addbxw)|
  |`Markdown - что за язык и как им пользоваться`|
  
-<span style="color:#f00">some *blue* text</span>
+<span style="color:blue">some *blue* text</span>
  
